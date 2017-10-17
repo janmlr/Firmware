@@ -42,6 +42,8 @@ class ParameterGroup(object):
             return "QuadRotorX"
         elif (self.name == "Quadrotor +"):
             return "QuadRotorPlus"
+        elif (self.name == "Quadrotor h"):
+            return "QuadRotorH"
         elif (self.name == "Hexarotor x"):
             return "HexaRotorX"
         elif (self.name == "Hexarotor +"):

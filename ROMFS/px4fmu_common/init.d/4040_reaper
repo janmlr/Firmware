@@ -2,7 +2,7 @@
 #
 # @name Reaper 500 Quad
 #
-# @type Quadrotor x
+# @type Quadrotor h
 # @class Copter
 #
 # @maintainer Blankered
